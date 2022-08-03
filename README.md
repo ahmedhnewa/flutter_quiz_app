@@ -1,6 +1,6 @@
-# second_app
+# Flutter Notes
 
-A new Flutter project.
+I didn't delete the README.md that generated with flutter
 
 ## Getting Started
 

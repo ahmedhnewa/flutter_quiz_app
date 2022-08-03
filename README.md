@@ -1,4 +1,4 @@
-# Flutter Notes
+# Flutter App
 
 I didn't delete the README.md that generated with flutter
 
